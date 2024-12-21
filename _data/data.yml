@@ -247,7 +247,7 @@ skills:
 
     toolset:
       - name: Matlab
-      - level: 60%
+        level: 60%
       
       - name: Python & Django
         level: 98%
