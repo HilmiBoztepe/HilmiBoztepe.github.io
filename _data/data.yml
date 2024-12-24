@@ -14,7 +14,7 @@ sidebar:
 
     # Sidebar links
     email: boztepe22@itu.edu.tr
-    phone: 012 345 6789
+    phone: +90 546 930 7969
     timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
     website: https://example.com/ # Include the full website URL, including "http://" or "https://".
@@ -60,12 +60,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      İTÜ Kontrol ve Otomasyon Mühendisliği ikinci sınıf öğrencisiyim. Tarımın bir toplumun gelişmişliğinin en önemli göstergelerinden biri olduğunu düşünen ve teknolojiyi tarım sektöründeki verimliliği artırmak için kullanma konusunda büyük ilgiye sahip bir öğrenciyim. 
+      Python programlama, veri bilimi ve robotik konularında temelim var, katıldığım kurslar ile de geliştirmeye devam ediyorum ve bu teknolojileri kullanarak tarımsal süreçlerin optimize edilmesine katkı sağlamak istiyorum. 
+      Tarımsal otomasyon ve yapay zeka konusunda çalışabileceğim, teorik bilgiyi pratiğe dökerek sürdürülebilir tarım çözümleri geliştirme fırsatı sunan bir staj deneyimi arayışındayım.
+      Yenilikçi yaklaşımlara açık, analitik düşünme yeteneğine sahip ve takım çalışmasına yatkın biriyim.
 education:
     title: Education
     info:
@@ -181,7 +179,7 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Web Scraping ve Makine Öğrenmesi ile Kadıköy İlçesi Ev Fiyat Tahmin Modeli
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
@@ -252,8 +250,8 @@ skills:
       - name: Python & Django
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Supervised Learning
+        level: 50%
 
       - name: Angular
         level: 98%
