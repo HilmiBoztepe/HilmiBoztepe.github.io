@@ -145,47 +145,15 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: Simscape Onramp
-          #start: 2019
-          #end:
-          organization: MATHWORKS
-          #credentialid: 111-222
-          credentialurl: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ac47dced-a246-4041-a35e-134708adfe02&
-          #credentialname: Github
-          #details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-        - name: Statistics Onramp
-          #start: 2019
-          #end:
-          organization: MATHWORKS
-          #credentialid: 111-222
-          credentialurl: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=fea96d12-5659-4dc0-b8e5-0cb7d26927a8&
-          #credentialname: Github
-          #details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-        - name: Int. to Self Driving Cars
-          #start: 2019
-          #end:
-          organization: Toronto University
-          #credentialid: 111-222
-          #credentialurl: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=fea96d12-5659-4dc0-b8e5-0cb7d26927a8&
-          #credentialname: Github
-          #details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
+        - name: CV Builder
+          start: 2020
+          end: 2021
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.google.com
+          credentialname: Google
+          details: |
+            Details about cert. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
             Nullam eget orci purus. Nullam ultrices neque nibh.
             Aenean fermentum, felis vulputate suscipit accumsan,
@@ -194,6 +162,11 @@ certifications:
             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
             Praesent venenatis erat non augue suscipit consectetur.
 
+            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+            fringilla vel. Ut euismod, sem sed vulputate venenatis,
+            justo diam viverra velit, sed rhoncus leo leo eu justo.
+            Suspendisse placerat risus ante, sed porta nisi blandit at.
+       
 projects:
     title: Projects
     intro: >
