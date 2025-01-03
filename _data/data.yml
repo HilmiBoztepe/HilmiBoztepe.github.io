@@ -101,7 +101,7 @@ education:
             - Bullet point
             - Bullet point
 
-experiences:
+#experiences:
     title: Experiences
     info:
       - role: Lead Developer
@@ -166,6 +166,7 @@ certifications:
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
             justo diam viverra velit, sed rhoncus leo leo eu justo.
             Suspendisse placerat risus ante, sed porta nisi blandit at.
+    
        
 projects:
     title: Projects
