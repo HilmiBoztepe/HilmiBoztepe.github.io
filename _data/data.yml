@@ -9,16 +9,16 @@ sidebar:
 
     # Profile information
     name: Ahmet Hilmi Boztepe
-    tagline: Control and Automation 2nd Degree Student
+    tagline: Control and Automation Engineering 2nd Degree Student
     #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: boztepe22@itu.edu.tr
     phone: +90 546 930 7969
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
+    #timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    citizenship: Türkiye
+    website: https://hilmiboztepe.github.io
+    #linkedin: alandoe
     #xing: alandoe
     github: HilmiBoztepe
     #telegram: # add your nickname without '@' sign
@@ -78,9 +78,20 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: High School
+        university: Açıköğretim Lisesi
+        time: 2021 - 2022
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
+        - degree: High School
+        university: İstanbul Üsküdar Lisesi
+        time: 2018 - 2021
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -90,7 +101,7 @@ education:
             - Bullet point
             - Bullet point
 
-experiences:
+#experiences:
     title: Experiences
     info:
       - role: Lead Developer
@@ -134,14 +145,14 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: SIMULINK ONRAMP
-          start: 2020
-          end: 2021
+        - name: Simulink Onramp
+          #start: 2020
+          #end: 2021
           organization: MATHWORKS
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
+          #credentialid: 111-222
+          credentialurl: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=2a6faa74-d58e-4a05-b29d-8a5ab2242d2f&
+          #credentialname: Google
+          #details: |
             Details about cert. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
             Nullam eget orci purus. Nullam ultrices neque nibh.
@@ -155,14 +166,46 @@ certifications:
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
             justo diam viverra velit, sed rhoncus leo leo eu justo.
             Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
+        - name: Simscape Onramp
+          #start: 2019
+          #end:
+          organization: MATHWORKS
+          #credentialid: 111-222
+          credentialurl: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ac47dced-a246-4041-a35e-134708adfe02&
+          #credentialname: Github
+          #details: |
+            Older certification. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
+        - name: Statistics Onramp
+          #start: 2019
+          #end:
+          organization: MATHWORKS
+          #credentialid: 111-222
+          credentialurl: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=fea96d12-5659-4dc0-b8e5-0cb7d26927a8&
+          #credentialname: Github
+          #details: |
+            Older certification. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
+        - name: Int. to Self Driving Cars
+          #start: 2019
+          #end:
+          organization: Toronto University
+          #credentialid: 111-222
+          #credentialurl: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=fea96d12-5659-4dc0-b8e5-0cb7d26927a8&
+          #credentialname: Github
+          #details: |
             Older certification. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
             Nullam eget orci purus. Nullam ultrices neque nibh.
@@ -183,40 +226,7 @@ projects:
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
