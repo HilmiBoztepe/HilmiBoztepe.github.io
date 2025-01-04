@@ -242,20 +242,20 @@ skills:
       - name: Matlab
         level: 60%
       
-      - name: Python & Django
+      - name: Python
         level: 98%
 
       - name: Supervised Learning
         level: 50%
 
-      - name: Angular
-        level: 98%
+      - name: Computer Vision
+        level: 40%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Simulink
+        level: 60%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: PLC
+        level: 5%
 
       - name: Sketch & Photoshop
         level: 60%
