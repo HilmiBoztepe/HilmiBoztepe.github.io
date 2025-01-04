@@ -102,7 +102,7 @@ education:
             - Bullet point
 
 #experiences:
-    #title: Experiences
+    title: Experiences
     info:
       - role: Lead Developer
         time: 
@@ -147,7 +147,7 @@ education:
 projects:
     title: Projects
     intro: >
-      
+      Aaaaaa
     assignments:
       - title: Web Scraping ve Makine Öğrenmesi ile Kadıköy İlçesi Ev Fiyat Tahmin Modeli
         link: "#hook"
