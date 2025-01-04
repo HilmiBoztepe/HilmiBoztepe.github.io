@@ -126,7 +126,7 @@ certifications:
           #credentialid: 111-222
           credentialurl: www.google.com
           #credentialname: Google
-          details: |
+          #details: |
             
         - name: Simulink Onramp
           #start: 2019
@@ -135,16 +135,16 @@ certifications:
           #credentialid: 111-222
           credentialurl: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=2a6faa74-d58e-4a05-b29d-8a5ab2242d2f&
           #credentialname: Github
-          details: |
+          #details: |
             
         - name: Simmscape Onramp
           #start: 2019
           #end:
           organization: Mathworks
-          credentialid: 111-222
+          #credentialid: 111-222
           credentialurl: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ac47dced-a246-4041-a35e-134708adfe02&
           #credentialname: Github
-          details: |
+          #details: |
             
         - name: Statistics Onramp
           #start: 2019
@@ -153,7 +153,7 @@ certifications:
           #credentialid: 111-222
           credentialurl: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=fea96d12-5659-4dc0-b8e5-0cb7d26927a8&
           #credentialname: Github
-          details: |
+          #details: |
             
         
 skills:
