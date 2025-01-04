@@ -135,8 +135,8 @@ certifications:
           #credentialid: 111-222
           credentialurl: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=2a6faa74-d58e-4a05-b29d-8a5ab2242d2f&
           #credentialname: Github
-          #details: |
-            
+          details: |
+            https://matlabacademy.mathworks.com/progress/share/certificate.html?id=2a6faa74-d58e-4a05-b29d-8a5ab2242d2f&
         - name: Simmscape Onramp
           #start: 2019
           #end:
