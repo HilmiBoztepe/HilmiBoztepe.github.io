@@ -226,7 +226,7 @@ certifications:
           credentialid: 111-222
           credentialurl: www.github.com
           credentialname: Github
-          #details: |
+          details: |
             Older certification. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
             Nullam eget orci purus. Nullam ultrices neque nibh.
@@ -242,7 +242,7 @@ certifications:
           credentialid: 111-222
           credentialurl: www.github.com
           credentialname: Github
-          #details: |
+          details: |
             Older certification. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
             Nullam eget orci purus. Nullam ultrices neque nibh.
@@ -255,10 +255,10 @@ certifications:
           start: 2019
           end:
           organization: Microsoft
-          #credentialid: 111-222
+          credentialid: 111-222
           credentialurl: www.github.com
           credentialname: Github
-          #details: |
+          details: |
             Older certification. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
             Nullam eget orci purus. Nullam ultrices neque nibh.
