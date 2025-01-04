@@ -146,14 +146,14 @@ education:
        
 projects:
     title: Projects
-    intro: >
+    #intro: >
       You can list your side projects in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Web Scraping ve Makine Öğrenmesi ile Kadıköy İlçesi Ev Fiyat Tahmin Modeli
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: " A responsive website template designed to help startups promote, market and sell their products."
 #oss:
     #title: OSS Contributions
     intro: >
