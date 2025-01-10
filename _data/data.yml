@@ -110,7 +110,7 @@ projects:
       
     assignments:
       - title: Web Scraping ve Makine Öğrenmesi ile Kadıköy İlçesi Ev Fiyat Tahmin Modeli
-        link: "#hook"
+        link: "https://github.com/HilmiBoztepe/Ev-Fiyat-Tahmini"
         tagline: ""
 
 
