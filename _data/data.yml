@@ -120,12 +120,12 @@ certifications:
       title: Certifications
       list:
         - name: Int. to Self Driving Cars
-          #start: 2020
-          #end: 2021
+          #start: 
+          #end: 
           organization: Toronto University
-          #credentialid: 111-222
+          #credentialid: 
           credentialurl: www.google.com
-          #credentialname: Google
+          credentialname: Google
           #details: |
             
         - name: Simulink Onramp
@@ -134,7 +134,7 @@ certifications:
           organization: Mathworks
           #credentialid: 111-222
           credentialurl: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=2a6faa74-d58e-4a05-b29d-8a5ab2242d2f&
-          #credentialname: Github
+          credentialname: Github
           details: |
             https://matlabacademy.mathworks.com/progress/share/certificate.html?id=2a6faa74-d58e-4a05-b29d-8a5ab2242d2f&
         - name: Simmscape Onramp
@@ -143,7 +143,7 @@ certifications:
           organization: Mathworks
           #credentialid: 111-222
           credentialurl: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ac47dced-a246-4041-a35e-134708adfe02&
-          #credentialname: Github
+          credentialname: Github
           #details: |
             
         - name: Statistics Onramp
@@ -152,7 +152,7 @@ certifications:
           organization: Mathworks
           #credentialid: 111-222
           credentialurl: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=fea96d12-5659-4dc0-b8e5-0cb7d26927a8&
-          #credentialname: Github
+          credentialname: Github
           #details: |
         
         - name: Statistics Onramp
@@ -161,7 +161,7 @@ certifications:
           organization: Mathworks
           #credentialid: 111-222
           credentialurl: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=fea96d12-5659-4dc0-b8e5-0cb7d26927a8&
-          #credentialname: Github
+          credentialname: Github
           #details: |
             
         
@@ -187,7 +187,7 @@ skills:
       - name: PLC
         level: 5%
 
-      - name: MS Programs
+      - name: MS Office Programs
         level: 60%
 
 footer: >
