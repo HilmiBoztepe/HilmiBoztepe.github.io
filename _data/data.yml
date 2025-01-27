@@ -155,7 +155,7 @@ certifications:
           credentialname: Mathworks
           #details: |
         
-        - name: Statistics Onramp
+        - name: Circuit Simulation Onramp
           #start: 2019
           #end:
           organization: Mathworks
@@ -163,7 +163,15 @@ certifications:
           credentialurl: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=fea96d12-5659-4dc0-b8e5-0cb7d26927a8&
           credentialname: Mathworks
           #details: |
-            
+        
+        - name: Explore Data with MATLAB Plots
+          #start: 2019
+          #end:
+          organization: Mathworks
+          #credentialid: 111-222
+          credentialurl: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=fea96d12-5659-4dc0-b8e5-0cb7d26927a8&
+          credentialname: Mathworks
+          #details: |
         
 skills:
     title: Skills &amp; Proficiency
