@@ -120,8 +120,8 @@ certifications:
       title: Certifications
       list:
         - name: Int. to Self Driving Cars
-          #start: 
-          #end: 
+          start: 07.2024
+          end: "Goes on" 
           organization: Toronto University
           #credentialid: 
           credentialurl: https://www.coursera.org
@@ -164,7 +164,7 @@ certifications:
           credentialname: Mathworks
           #details: |
         
-        - name: Explore Data with MATLAB Plots
+        - name: Solving Nonlinear Equations with MATLAB
           #start: 2019
           #end:
           organization: Mathworks
@@ -172,7 +172,15 @@ certifications:
           credentialurl: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=fea96d12-5659-4dc0-b8e5-0cb7d26927a8&
           credentialname: Mathworks
           #details: |
-        
+       
+        - name: Solving Ordinary Differential Equations with MATLAB
+          #start: 2019
+          #end:
+          organization: Mathworks
+          #credentialid: 111-222
+          credentialurl: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=fea96d12-5659-4dc0-b8e5-0cb7d26927a8&
+          credentialname: Mathworks
+          #details: |
 skills:
     title: Skills &amp; Proficiency
 
