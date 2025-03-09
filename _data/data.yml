@@ -60,10 +60,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a third-year student at ITU Control and Automation Engineering. I am a student who believes that agriculture is one of the most important indicators of a society's development and has a great interest in using technology to increase efficiency in the agricultural sector.
-        I have a foundation in Python programming, data science and robotics, and I continue to develop it with the courses I attend, and I want to contribute to the optimization of agricultural processes using these technologies.
-        I am looking for an internship experience where I can work on agricultural automation and artificial intelligence, and provide the opportunity to develop sustainable agricultural solutions by putting theoretical knowledge into practice.
-        I am open to innovative approaches, have analytical thinking skills and am prone to teamwork.
+      My name is Ahmet Hilmi Boztepe and I am currently a 3rd degree student in the Control and Automation Engineering Department
+        at Istanbul Technical University. I am highly interested in control systems and automation and would love the opportunity to gain hands-on
+        experience through an internship. Throughout my academic career, I have worked on mathematics, circuit theory and analaysis, electronics, 
+        programming languages(C, Python), machine learning-computer vision, system modeling -feedback control systems. I am eager to complement
+        my theoretical knowledge with practical applications especially in agriculture area and defense industry. I have a strong command of English, and I am actively improving my
+        both English and German skills to ensure smooth communication during my career.
 education:
     title: Education
     info:
