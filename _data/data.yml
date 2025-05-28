@@ -64,7 +64,7 @@ career-profile:
         at Istanbul Technical University. I am highly interested in control systems and automation and I would love the opportunity to gain hands-on
         experience through an internship. Throughout my academic career, I have worked on mathematics, circuit theory and analysis, electronics, 
         programming languages(C, Python), machine learning-computer vision, system modeling -feedback control systems. I am eager to complement
-        my theoretical knowledge with practical applications especially in agriculture area and defense industry. I have a strong command of English, and I am actively improving my
+        my theoretical knowledge with practical applications especially in agriculture area, defense industry and data science. I have a strong command of English, and I am actively improving my
         both English and German skills to ensure smooth communication during my career.
 education:
     title: Education
@@ -114,7 +114,9 @@ projects:
       - title: Kadıköy District House Price Prediction Model with Web Scraping and Machine Learning
         link: "https://github.com/HilmiBoztepe/Ev-Fiyat-Tahmini"
         tagline: ""
-
+    - title: Titanic Survival Prediction with Machine Learning
+        link: "https://github.com/HilmiBoztepe/TITANIC"
+        tagline: ""
 
 
 
