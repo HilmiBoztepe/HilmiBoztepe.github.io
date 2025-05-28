@@ -114,7 +114,8 @@ projects:
       - title: Kadıköy District House Price Prediction Model with Web Scraping and Machine Learning
         link: "https://github.com/HilmiBoztepe/Ev-Fiyat-Tahmini"
         tagline: ""
-    - title: Titanic Survival Prediction with Machine Learning
+      
+      - title: Titanic Survival Prediction with Machine Learning
         link: "https://github.com/HilmiBoztepe/TITANIC"
         tagline: ""
 
