@@ -133,7 +133,7 @@ certifications:
           credentialname: Coursera
           #details: |
           
-        - name: Supervised Machine Learning: Regression and Classification
+        - name: Supervised Machine Learning Regression and Classification
           start: 05.2025
           end: "Goes on" 
           organization: DeepLearning.AI
