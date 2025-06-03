@@ -132,7 +132,25 @@ certifications:
           credentialurl: https://www.coursera.org
           credentialname: Coursera
           #details: |
-            
+          
+        - name: Supervised Machine Learning: Regression and Classification
+          start: 05.2025
+          end: "Goes on" 
+          organization: DeepLearning.AI
+          #credentialid: 
+          #credentialurl: 
+          #credentialname: Coursera
+          #details: |
+        
+        - name: Natural Language Processing with Classification and Vector Spaces
+          start: 05.2025
+          end: "Goes on" 
+          organization: DeepLearning.AI
+          #credentialid: 
+          #credentialurl: 
+          #credentialname: Coursera
+          #details: |  
+        
         - name: Simulink Onramp
           #start: 2019
           #end:
