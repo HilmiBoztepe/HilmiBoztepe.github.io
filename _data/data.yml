@@ -139,7 +139,7 @@ certifications:
           organization: DeepLearning.AI
           #credentialid: 
           #credentialurl: 
-          #credentialname: Coursera
+          credentialname: DeepLearning.AI
           #details: |
         
         - name: Natural Language Processing with Classification and Vector Spaces
@@ -148,7 +148,7 @@ certifications:
           organization: DeepLearning.AI
           #credentialid: 
           #credentialurl: 
-          #credentialname: Coursera
+          credentialname: DeepLearning.AI
           #details: |  
         
         - name: Simulink Onramp
@@ -156,7 +156,7 @@ certifications:
           #end:
           organization: Mathworks
           #credentialid: 111-222
-          credentialurl: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=2a6faa74-d58e-4a05-b29d-8a5ab2242d2f&
+          credentialurl: https://drive.google.com/drive/folders/13Xdx4_LS6xYgntn6UB59JtfQKSUGb8Q9?usp=sharing
           credentialname: Mathworks
           #details: |
             
@@ -165,7 +165,7 @@ certifications:
           #end:
           organization: Mathworks
           #credentialid: 111-222
-          credentialurl: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ac47dced-a246-4041-a35e-134708adfe02&
+          credentialurl: https://drive.google.com/drive/folders/13Xdx4_LS6xYgntn6UB59JtfQKSUGb8Q9?usp=sharing
           credentialname: Mathworks
           #details: |
             
@@ -174,7 +174,7 @@ certifications:
           #end:
           organization: Mathworks
           #credentialid: 111-222
-          credentialurl: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=fea96d12-5659-4dc0-b8e5-0cb7d26927a8&
+          credentialurl: https://drive.google.com/drive/folders/13Xdx4_LS6xYgntn6UB59JtfQKSUGb8Q9?usp=sharing
           credentialname: Mathworks
           #details: |
         
@@ -183,7 +183,7 @@ certifications:
           #end:
           organization: Mathworks
           #credentialid: 111-222
-          credentialurl: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=fea96d12-5659-4dc0-b8e5-0cb7d26927a8&
+          credentialurl: https://drive.google.com/drive/folders/13Xdx4_LS6xYgntn6UB59JtfQKSUGb8Q9?usp=sharing
           credentialname: Mathworks
           #details: |
         
@@ -192,7 +192,7 @@ certifications:
           #end:
           organization: Mathworks
           #credentialid: 111-222
-          credentialurl: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=fea96d12-5659-4dc0-b8e5-0cb7d26927a8&
+          credentialurl: https://drive.google.com/drive/folders/13Xdx4_LS6xYgntn6UB59JtfQKSUGb8Q9?usp=sharing
           credentialname: Mathworks
           #details: |
        
@@ -201,7 +201,7 @@ certifications:
           #end:
           organization: Mathworks
           #credentialid: 111-222
-          credentialurl: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=fea96d12-5659-4dc0-b8e5-0cb7d26927a8&
+          credentialurl: https://drive.google.com/drive/folders/13Xdx4_LS6xYgntn6UB59JtfQKSUGb8Q9?usp=sharing
           credentialname: Mathworks
           #details: |
 skills:
